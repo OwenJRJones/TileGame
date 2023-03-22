@@ -1,0 +1,26 @@
+/* Body Background */
+body {
+    background-color: #b3e0ff;
+}
+
+/* Table Border */
+table#gameTable {
+    border: 3px solid black;
+}
+
+/* Tile Styling */
+td.tile {
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+}
+
+/* Check Message Margin */
+label#checkMessage {
+    margin: 5px;
+}
+
+/* Play/Pause Button Margin */
+button#playPause {
+    margin: 10px;
+}
