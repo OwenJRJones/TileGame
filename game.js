@@ -165,7 +165,7 @@
         audioNode.autoplay = "autoplay";
         document.body.appendChild(audioNode);
 
-        //Add script to run innovatice feature
+        //Add script to run innovative feature
         let aduioScript = document.createElement("script");
         aduioScript.innerHTML = "window.onload = function(){ document.getElementById('audioNode').play();}"
         document.body.appendChild(aduioScript);
